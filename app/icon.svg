@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" role="img" aria-label="Shanzey Asghar">
+  <rect width="32" height="32" rx="8" fill="#000000"/>
+  <rect x="0.5" y="0.5" width="31" height="31" rx="7.5" stroke="#D4FF00" stroke-opacity="0.35"/>
+  <path
+    stroke="#FFFFFF"
+    stroke-opacity="0.08"
+    d="M0 8h32M0 16h32M0 24h32M8 0v32M16 0v32M24 0v32"
+  />
+  <text
+    x="16"
+    y="20.5"
+    text-anchor="middle"
+    font-family="system-ui, -apple-system, sans-serif"
+    font-size="11"
+    font-weight="700"
+    letter-spacing="-0.5"
+    fill="#D4FF00"
+  >SA</text>
+</svg>
